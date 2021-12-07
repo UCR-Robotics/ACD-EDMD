@@ -1,8 +1,8 @@
 # ACD-EDMD
 
 This repository is the primary brach for the implementation of ACD-EDMD. 
-The paper has been accepted to be published in RA-L.
-(Attach the paper when done)
+The paper has been accepted to be published in RA-L and is available at  <https://arxiv.org/abs/2111.12256>.
+
 
 ## Overview
 
